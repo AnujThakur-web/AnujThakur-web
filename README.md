@@ -229,37 +229,6 @@ Docker is used to package applications into portable and consistent runtime envi
 [→] Production-ready Cloud Projects
 [→] Advanced Azure Architecture
 ```
-
----
-
-## `SIGNATURE TERMINAL`
-
-```text
-anuj@devops:~$ whoami
-Anuj Thakur
-
-anuj@devops:~$ role
-Azure DevOps Engineer
-
-anuj@devops:~$ cloud
-Microsoft Azure
-
-anuj@devops:~$ iac
-Terraform
-
-anuj@devops:~$ cicd
-Azure DevOps
-
-anuj@devops:~$ containers
-Docker + Kubernetes
-
-anuj@devops:~$ monitoring
-Prometheus + Grafana + Azure Monitor
-
-anuj@devops:~$ mission
-Automate. Deploy. Monitor. Improve. 🚀
-```
-
 ---
 
 ## `CONNECT`
