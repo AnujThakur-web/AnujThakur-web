@@ -46,7 +46,6 @@ microservice architectures**.
 
 ---
 
-## 🔄 My DevOps Pipeline
 
 ## 🔄 My DevOps Pipeline
 
