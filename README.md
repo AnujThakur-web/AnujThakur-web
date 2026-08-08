@@ -64,10 +64,11 @@ JavaScript and React**.
 </p>
 
 ### ⚙️ CI/CD & GitOps
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=githubactions" />
 </p>
+
+**Azure DevOps** · **Argo CD** · **Helm**
 
 **Azure DevOps** · **Argo CD** · **Helm**
 
@@ -114,4 +115,3 @@ JavaScript and React**.
                  ↓
           🔔 MONITORING
 ```
-PRODUCTION
