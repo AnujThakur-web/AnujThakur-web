@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AnujThakur-web/AnujThakur-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Anuj Thakur
 
-Here are some ideas to get you started:
+### ☁️ Azure DevOps Engineer | 🚀 Cloud & Automation | 🏗️ Infrastructure as Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/anuj-thakur-15359358/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/AnujThakur-web">
+  <img src="https://img.shields.io/badge/GitHub-AnujThakur--web-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm an **Azure DevOps Engineer** passionate about cloud infrastructure,
+automation, CI/CD and reliable software delivery.
+
+I work with **Azure, Terraform, Docker, Python, Git, GitHub and
+microservice architectures**.
+
+---
+
+## ⚡ What I Do
+
+- ☁️ Azure Cloud Infrastructure
+- 🏗️ Infrastructure as Code with Terraform
+- 🚀 CI/CD Automation
+- 🐳 Docker & Containers
+- 🐍 Python Automation
+- 🏛️ Microservices
+- 🔧 DevOps & Cloud Engineering
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,git,github,python,javascript,react" />
+</p>
+
+---
+
+## 🔄 My DevOps Pipeline
+
+```text
+👨‍💻 CODE
+   ↓
+🔀 GIT / GITHUB
+   ↓
+⚙️ CI / CD
+   ↓
+🐳 DOCKER
+   ↓
+🏗️ TERRAFORM
+   ↓
+☁️ AZURE
+   ↓
+🚀 PRODUCTION
