@@ -27,23 +27,26 @@ microservice architectures**.
 
 ## ⚡ What I Do
 
-- ☁️ Azure Cloud Infrastructure
-- 🏗️ Infrastructure as Code with Terraform
-- 🚀 CI/CD Automation
-- 🐳 Docker & Containers
-- 🐍 Python Automation
-- 🏛️ Microservices
-- 🔧 DevOps & Cloud Engineering
+☁️ Azure Cloud
+🏗️ Terraform & IaC
+🐳 Docker
+☸️ Kubernetes
+⚙️ CI/CD
+🔐 DevOps Best Practices
+🐍 Python Automation
+🏛️ Microservices
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,git,github,python,javascript,react" />
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,git,github,python,javascript,react" />
 </p>
 
 ---
+
+## 🔄 My DevOps Pipeline
 
 ## 🔄 My DevOps Pipeline
 
@@ -55,6 +58,8 @@ microservice architectures**.
 ⚙️ CI / CD
    ↓
 🐳 DOCKER
+   ↓
+☸️ KUBERNETES
    ↓
 🏗️ TERRAFORM
    ↓
