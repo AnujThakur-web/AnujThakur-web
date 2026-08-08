@@ -17,13 +17,30 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **Azure DevOps Engineer** passionate about cloud infrastructure,
-automation, CI/CD and reliable software delivery.
-
-I work with **Azure, Terraform, Docker, Python, Git, GitHub and
-microservice architectures**.
+I work with **Azure, Terraform, Docker, Kubernetes, Helm, Argo CD,
+Azure DevOps, GitHub Actions, Prometheus, Grafana, Linux, Python,
+JavaScript and React**.
 
 ---
+
+## `SYSTEM STATUS`
+
+| Module | Technology | State |
+|---|---|---|
+| Cloud | Azure | 🔵 `ACTIVE` |
+| IaC | Terraform | 🔵 `ACTIVE` |
+| Containers | Docker | 🔵 `ACTIVE` |
+| Orchestration | Kubernetes | 🔵 `ACTIVE` |
+| Package Management | Helm | 🔵 `ACTIVE` |
+| GitOps | Argo CD | 🔵 `ACTIVE` |
+| CI/CD | Azure DevOps · GitHub Actions | 🔵 `ACTIVE` |
+| Monitoring | Prometheus · Grafana | 🔵 `ACTIVE` |
+| Cloud Monitoring | Azure Monitor | 🔵 `ACTIVE` |
+| OS | Linux | 🔵 `ACTIVE` |
+| Version Control | Git · GitHub | 🔵 `ACTIVE` |
+| Programming | Python · JavaScript | 🔵 `ACTIVE` |
+| Frontend | React | 🔵 `ACTIVE` |
+
 
 ## ⚡ What I Do
 
@@ -40,8 +57,28 @@ microservice architectures**.
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,git,github,python,javascript,react" />
+### ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,linux,git,github" />
+</p>
+
+### ⚙️ CI/CD & GitOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=githubactions" />
+</p>
+
+**Azure DevOps** · **Argo CD** · **Helm**
+
+### 📊 Monitoring & Observability
+
+**Prometheus** · **Grafana** · **Azure Monitor**
+
+### 💻 Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript,react" />
 </p>
 
 ---
@@ -50,18 +87,31 @@ microservice architectures**.
 ## 🔄 My DevOps Pipeline
 
 ```text
-👨‍💻 CODE
-   ↓
-🔀 GIT / GITHUB
-   ↓
-⚙️ CI / CD
-   ↓
-🐳 DOCKER
-   ↓
-☸️ KUBERNETES
-   ↓
-🏗️ TERRAFORM
-   ↓
-☁️ AZURE
-   ↓
-🚀 PRODUCTION
+              👨‍💻 CODE
+                 ↓
+            🔀 GIT / GITHUB
+                 ↓
+              ⚙️ CI/CD
+            ↙          ↘
+    AZURE DEVOPS     GITHUB ACTIONS
+            ↘          ↙
+                 ↓
+            🏗️ TERRAFORM
+                 ↓
+              ☁️ AZURE
+                 ↓
+             🐳 DOCKER
+                 ↓
+          ☸️ KUBERNETES
+                 ↓
+               ⛵ HELM
+                 ↓
+             🔄 ARGO CD
+                 ↓
+            🚀 PRODUCTION
+                 ↓
+       📊 PROMETHEUS + GRAFANA
+                 ↓
+          🔔 MONITORING
+```
+PRODUCTION
