@@ -231,6 +231,13 @@ Docker is used to package applications into portable and consistent runtime envi
 ```
 ---
 
+## `GITHUB STATS`
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AnujThakur-web&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnujThakur-web&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=AnujThakur-web&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnujThakur-web&theme=react-dark)
+
 ## `CONNECT`
 
 <p align="center">
